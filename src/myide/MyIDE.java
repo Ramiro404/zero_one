@@ -16,7 +16,7 @@ public class MyIDE {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Mi IDE");
+        System.out.println("Fuck you world");
     }
      
 }
